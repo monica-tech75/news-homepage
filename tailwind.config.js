@@ -18,6 +18,9 @@ export default {
           700: 'hsl(236, 13%, 42%)',
           400: 'hsl(233, 8%, 79%)',
         },
+        mywhite: {
+          400: '36, 100%, 99%',
+        }
       },
       fontFamily: {
        'mysans': ['Inter'],
