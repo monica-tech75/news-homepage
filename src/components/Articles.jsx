@@ -3,7 +3,7 @@
 export function Articles() {
   return (
     <>
-    <article className="bg-black text-white md:w-[60svw] md:ml-10 ">
+    <article className="bg-black text-white">
     <h2 className="text-myorange-300 ml-2 font-bold text-[1.5rem] pt-3 pb-4">New</h2>
 
     <div className="ml-2">

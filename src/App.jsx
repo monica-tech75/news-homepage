@@ -10,17 +10,10 @@ function App() {
 
   return (
     <>  
-    <div className="bg-mywhite-400 mx-3 md:mx-20 font-mysans text-myblue-900">
+    <div className="bg-mywhite-400 mx-3 sm:mx-10 font-mysans text-myblue-900">
     <Header />
-
-    <div className='md:flex'>
-    <div className='md:grid grid-cols-3 grid-rows-2'>
     <Mainbody />
-    </div>
     <Articles />
-    </div>
-    
-    
     <News />
     </div>
 
